@@ -1,0 +1,1 @@
+Contains various coding assignments I submitted (or created) during high school IT classes.

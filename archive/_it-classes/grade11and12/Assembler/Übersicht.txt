@@ -1,0 +1,21 @@
+Gui
+
+Übergabe Dictunary
+
+Entrys sind wichtig
+entrys geten und speichern
+Text datei ein und auslesen
+wir brauchen auch singelstep
+akku, zähler, Allu
+entrys in klasse
+
+Aufgaben/Methoden:
+gegeben Text und kontrollieren ob die gramatik korekt ist
+Oberfläche erstellen mit diesem Feld und allen Objekten
+Text auf Datei laden
+Text in Dictinary schreiben
+
+
+Grammatik prüfen:
+Zeilen (nicht doppelt),
+

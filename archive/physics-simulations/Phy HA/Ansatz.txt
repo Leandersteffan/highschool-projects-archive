@@ -1,0 +1,16 @@
+Eingabe der Gechwindigkeit des Satellits (M, m, r(=Erdradius) konstant)
+Darstellung in Grafik mit Erde, (Satellit als Punkt und (Kraftpfeil) sowie V Pfeil)
+Play Button drücken
+Alle Werte für jeden Punkt ausrechnen indem man V und Anziehung vergleicht und weiterbewegung für eine kurze Strecke macht
+--> 1. Kreisbahn und Elypse würden sich Werte irgenwann wiederholen
+--> 2. In Erde wäre es irgendwann (In Erde) kein Definitionsbereich
+--> 3. Außerhab ist dann irgendwann kein Definitionsbereich
+Linie Punkt zu Punkte Zeichnen (entweder nur das und Punkt (Satellit) weg oder vorne am zeichnen)
+--> Vielleicht mit sleep bei zeichnen wo man auch speed einstellen könnte.
+
+--> Ganz advanced wird die Spur hinten gelöscht und zeichnet sich von alleine weiter und weiter (bei 2. Fall)
+
+
+
+
+Wichtige Formeln um Energienen zu vergleichen (kinetische Energie,

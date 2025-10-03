@@ -1,0 +1,40 @@
+.headline {
+    color: blue;
+    font-weight: 300;
+}
+.small {
+    font-size: 20px;
+}
+body {
+    margin: 0;
+}
+header {
+    height: 100;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    box-shadow: 0px 5px 13px 2px #000000;
+}
+header a {
+    margin-right: 16px;
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+}
+header a:hover {
+    color: rgb(165, 9, 9);
+}
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.container a {
+    background-color: blueviolet;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.674);
+}
+.container a:hover {
+    background-color: rgb(151, 69, 227);
+}

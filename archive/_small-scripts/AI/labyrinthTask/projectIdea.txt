@@ -1,0 +1,15 @@
+There will be a labyrinth
+in that labyrinth is a character, an entry, deliveries and a deliverTo point
+
+The goal:
+Start at the entry
+go through the labyrinth and deliver every delivery to the deliverTo
+find the quickest way/do it as fast as possible
+
+Ways to do it:
+1. Write algorithm to do that
+2. have an Ai that can control the character and doesn't have more inputs
+   to learn it overtime
+
+Important:
+it must be visible in a graphical representation

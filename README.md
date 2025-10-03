@@ -14,6 +14,27 @@ The projects here are **simple, unpolished, and often experimental**, kept only 
 
 ---
 
+## Highlights (selection)
+
+A few favorites (there’s more inside `archive/`):
+
+- **physics-simulations**  
+  Orbit simulation and chain decay simulation (I was quite proud).
+
+- **leetcode**  
+  A collection of solved LeetCode problems.
+
+- **10-finger-app**  
+  A small app I built (and used) to practice typing with all 10 fingers.
+
+- **spinning-donut**  
+  A fun ASCII-based animation.
+
+- **sudoku-app**  
+  Not super intuitive to use, but includes logic to validate and solve puzzles.
+
+---
+
 ## What to expect
 - Small scripts, simple games, small simulations, and early experiments.  
 - Inconsistent coding style and old dependencies.  

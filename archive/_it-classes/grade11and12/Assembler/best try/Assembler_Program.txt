@@ -1,0 +1,9 @@
+0 LDA 6
+1 ADD 6
+2 STA 7
+3 LDA 6
+4 STA 8
+5 STP 
+6 5
+7 10
+8 5

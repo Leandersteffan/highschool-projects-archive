@@ -1,0 +1,1 @@
+Tiny scripts I wrote for fun or to solve small problems. Nothing big, just experiments.

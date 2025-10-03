@@ -1,0 +1,7 @@
+1. Eine Wettenseite öffnen
+2. Eine Liste mit [Name des Events (wer gegen wen), odds, odds]
+3. andere Wettseite öffnen
+4. zweite Liste mit [Name des Events (wer gegen wen), odds, odds]
+5. Beide Listen an Eventname zusammenführen
+6. Abitrage ausrechnen
+7. Ausgabe mit der einsätze nach größe
