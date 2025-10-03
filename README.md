@@ -24,7 +24,7 @@ A few favorites (there’s more inside `archive/`):
 - **leetcode**  
   A collection of solved LeetCode problems.
 
-- **10-finger-app**  
+- **ten-finger-app**  
   A small app I built (and used) to practice typing with all 10 fingers.
 
 - **spinning-donut**  
